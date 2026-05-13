@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marmabiswas123/python-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/marmabiswas123/python-practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/marmabiswas123/python-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/marmabiswas123/python-practice/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/marmabiswas123/python-practice/tree/master/0912-sort-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/marmabiswas123/python-practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marmabiswas123/python-practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/marmabiswas123/python-practice/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marmabiswas123/python-practice/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/marmabiswas123/python-practice/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marmabiswas123/python-practice/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/marmabiswas123/python-practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -59,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/marmabiswas123/python-practice/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/marmabiswas123/python-practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
