@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marmabiswas123/python-practice/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/marmabiswas123/python-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/marmabiswas123/python-practice/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/marmabiswas123/python-practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/marmabiswas123/python-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/marmabiswas123/python-practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/marmabiswas123/python-practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
