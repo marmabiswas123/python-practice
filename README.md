@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marmabiswas123/python-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/marmabiswas123/python-practice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marmabiswas123/python-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marmabiswas123/python-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/marmabiswas123/python-practice/tree/master/0074-search-a-2d-matrix) |
@@ -77,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/marmabiswas123/python-practice/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/marmabiswas123/python-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/marmabiswas123/python-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/marmabiswas123/python-practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/marmabiswas123/python-practice/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/marmabiswas123/python-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
